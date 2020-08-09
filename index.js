@@ -9,4 +9,4 @@ prepend.unshift('Odie');
 const removeLast=["Milo", "Otis", "Garfield"];
 removeLast.pop();
 
-const removeFirst=["Otis", "Garfield"];
+const removeFirst = ["Milo", "Otis", "Garfield"];
